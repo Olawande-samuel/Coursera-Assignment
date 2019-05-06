@@ -1,0 +1,39 @@
+body {
+	background-color: green;
+}
+#header-nav {
+	background-color: gray;
+}
+.navbar-brand {
+	height: 50%;
+	font-weight: bolder;
+}
+.navbar-brand h1 {
+	color: black;
+	font-weight: bolder;
+}
+#nav-list {
+  margin-top: 10px;
+}
+
+        #menu {
+            margin-top: 15px;
+            margin-bottom: 15px;
+            /*text-align: center;*/ /*use bootstrap*/
+            font-weight: bolder;
+            color: black;
+        }
+        #itembox {
+            background-color: grey;
+            margin: 5px;
+            height: 1000px;
+        }
+        #p1 {
+            text-align: center;
+            font-weight: bold;
+            font-size: 1.3em;
+            color: black;
+        }
+        #p2 {
+            margin:0 10px 0 10px;
+        }
