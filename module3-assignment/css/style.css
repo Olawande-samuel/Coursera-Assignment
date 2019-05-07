@@ -3,6 +3,7 @@ body {
 }
 #header-nav {
 	background-color: gray;
+    border: 1px solid black
 }
 .navbar-brand {
 	height: 50%;
@@ -14,6 +15,10 @@ body {
 }
 #nav-list {
   margin-top: 10px;
+  background-color: green;
+}
+#nav-list a {
+  color: black;
 }
 
         #menu {
